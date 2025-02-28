@@ -1,3 +1,6 @@
+# Frontend Mentor - Social links profile
+## nicole
+![Design preview for the Social links profile coding challenge](./preview.jpg)
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
